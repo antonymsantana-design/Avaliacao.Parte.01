@@ -157,6 +157,7 @@ span {
 
 .cima p{
     color: white;
+    background-color: #8F00FF;
     width: 80px;
     height: 40px;
     border-radius: 10px;
@@ -191,26 +192,6 @@ span {
 .cards{
     display: flex;
     justify-content: center;
-    gap: 27px;
-    flex-wrap: wrap;
-}
-
-.crd1{
-    background-color: #8F00FF;
-}
-
-.crd2{
-    background-color: #087D99;
-}
-
-.crd3{
-    background-color: #185BE7;
-}
-
-.crd4{
-    background-color: #D96319;
-}
-
-.crd5{
-    background-color: #168C5D;
+    gap: 50px;
+    war
 }

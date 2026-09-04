@@ -191,7 +191,7 @@ span {
 .cards{
     display: flex;
     justify-content: center;
-    gap: 27px;
+    gap: 180px;
     flex-wrap: wrap;
 }
 
